@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Singapore Hawker Culture – What it means to me
+title: "Singapore Hawker Culture – What it means to me"
 permalink: /food-for-thought/from-the-community/sg-hawker-culture
 date: 2019-11-28
 ---
