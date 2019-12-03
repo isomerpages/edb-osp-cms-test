@@ -2,6 +2,7 @@
 layout: post
 title: Being a Singaporean is not just where you're from, it's how you have lived
 permalink: /food-for-thought/from-the-community/being-a-singaporean
+date: 2019-11-25
 ---
 
 # Being a Singaporean is not just where you're from, it's how you have lived

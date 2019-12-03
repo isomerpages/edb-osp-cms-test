@@ -2,6 +2,7 @@
 layout: post
 title: Passion to Profession – 3 tips from homegrown dancer Adelene Stanley
 permalink: /food-for-thought/from-the-community/passion-to-profession
+date: 2019-11-05
 ---
 
 # Passion to Profession – 3 tips from homegrown dancer Adelene Stanley

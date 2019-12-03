@@ -2,6 +2,7 @@
 layout: post
 title:  Dum Briyani in The Prairies
 permalink: /food-for-thought/from-the-community/dum-briyani-in-the-prairies
+date: 2019-10-26
 ---
 # Dum Briyani in The Prairies
 

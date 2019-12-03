@@ -2,6 +2,7 @@
 layout: post
 title:  Nurturing Artificial Intelligence to be more inclusive
 permalink: /food-for-thought/tech-me-to-sg/nurturing-ai
+date: 2019-07-18
 ---
 # Nurturing Artificial Intelligence to be more inclusive
 

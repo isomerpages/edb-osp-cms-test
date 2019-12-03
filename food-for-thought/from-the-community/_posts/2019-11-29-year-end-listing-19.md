@@ -2,6 +2,7 @@
 layout: post
 title: 10 Singaporean experiences you must try before 2019 ends
 permalink: /food-for-thought/from-the-community/10-SG-experiences
+date: 2019-11-29
 ---
 
 # 10 Singaporean experiences you must try before 2019 ends

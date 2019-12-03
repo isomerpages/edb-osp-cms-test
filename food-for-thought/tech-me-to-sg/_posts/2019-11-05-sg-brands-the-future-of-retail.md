@@ -2,6 +2,7 @@
 layout: post
 title:  "Singapore Brands Going Overseas: The Future of Retail"
 permalink: /food-for-thought/tech-me-to-sg/sg-brands-the-future-of-retail
+date: 2019-11-05
 ---
 # Singapore Brands Going Overseas: The Future of Retail
 

@@ -2,6 +2,7 @@
 layout: post
 title:  3 ways Singapore will bring your tech business to the next level
 permalink: /food-for-thought/tech-me-to-sg/bring-your-tech-business-to-the-next-level
+date: 2019-09-10
 ---
 # 3 ways Singapore will bring your tech business to the next level
 

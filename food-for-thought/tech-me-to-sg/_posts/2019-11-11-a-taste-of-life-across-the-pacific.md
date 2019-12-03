@@ -2,6 +2,7 @@
 layout: post
 title:  A taste of life across the Pacific
 permalink: /food-for-thought/tech-me-to-sg/a-taste-of-life-across-the-pacific
+date: 2019-11-11
 ---
 # A taste of life across the Pacific
 
