@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  3 reasons why you should consider a career in Singapore’s tech industry
+title:  "3 reasons why you should consider a career in Singapore’s tech industry"
 permalink: /food-for-thought/tech-me-to-sg/career-in-tech
 date: 2019-09-06
 ---
